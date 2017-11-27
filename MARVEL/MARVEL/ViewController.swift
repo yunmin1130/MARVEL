@@ -1,29 +1,3 @@
-//
-//  ViewController.swift
-//  MARVEL
-//
-//  Created by sgcs on 2017. 11. 12..
-//  Copyright © 2017년 Funhan. All rights reserved.
-//
-
-import UIKit
-
-class ViewController: UIViewController {
-
-    @IBOutlet weak var Label: UILabel!
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
-    }
-
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
-
-    @IBAction func Label_Change(_ sender: Any) {
-        Label.text = "Hello MARVEL!!"
-    }
-    
-}
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b0330cabbd4146f68c85cedf1606c603bd62ccee945b45258e0fec740d06c7b
+size 636
